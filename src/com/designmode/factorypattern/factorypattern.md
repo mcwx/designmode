@@ -1,8 +1,3 @@
----
-typora-root-url: ../../../../image
-typora-copy-images-to: ../../../../image/designmode01.png
----
-
 # 工厂模式
 
 工厂模式（Factory Pattern）是 Java 中最常用的设计模式之一。这种类型的设计模式属于创建型模式，它提供了一种创建对象的最佳方式。
@@ -41,3 +36,4 @@ typora-copy-images-to: ../../../../image/designmode01.png
 
 *FactoryPatternDemo*，我们的演示类使用 *ShapeFactory* 来获取 *Shape* 对象。它将向 *ShapeFactory* 传递信息（*CIRCLE / RECTANGLE / SQUARE*），以便获取它所需对象的类型。
 
+image/designmode01.png
