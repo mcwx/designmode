@@ -5,7 +5,7 @@ package com.designmode.factorypattern.demo1;
  * @Auther: houpeng
  * @Date: 2019-06-28
  */
-public class LogRecorderDemo {
+public class Demo1FactoryPattern {
     public static void main(String[] args) {
         LogRecorderFactory logRecorderFactory = new LogRecorderFactory();
 

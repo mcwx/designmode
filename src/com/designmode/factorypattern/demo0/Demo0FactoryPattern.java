@@ -5,7 +5,7 @@ package com.designmode.factorypattern.demo0;
  * @Auther: houpeng
  * @Date: 2019-06-27
  */
-public class DemoFactoryPattern {
+public class Demo0FactoryPattern {
 
     public static void main(String[] args) {
         ShapeFactory shapeFactory = new ShapeFactory();
