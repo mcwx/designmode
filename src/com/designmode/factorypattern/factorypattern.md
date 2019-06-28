@@ -36,4 +36,4 @@
 
 *FactoryPatternDemo*，我们的演示类使用 *ShapeFactory* 来获取 *Shape* 对象。它将向 *ShapeFactory* 传递信息（*CIRCLE / RECTANGLE / SQUARE*），以便获取它所需对象的类型。
 
-![designmode01.png](https://github.com/mcwx/designmode/blob/master/image/designmode01.png?raw=true)
+![designmode01.png](https://github.com/mcwx/designmode/blob/master/image/factorypattern.png.png?raw=true)
