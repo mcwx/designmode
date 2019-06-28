@@ -34,6 +34,5 @@
 
 *AbstractFactoryPatternDemo*，我们的演示类使用 *FactoryProducer* 来获取 *AbstractFactory* 对象。它将向 *AbstractFactory* 传递形状信息 *Shape*（*CIRCLE / RECTANGLE / SQUARE*），以便获取它所需对象的类型。同时它还向 *AbstractFactory* 传递颜色信息 *Color*（*RED / GREEN / BLUE*），以便获取它所需对象的类型。
 
-```
-![designmode01.png](https://github.com/mcwx/designmode/blob/master/image/abstractfactorypattern.png.png?raw=true)
-```
+![designmode01.png](https://github.com/mcwx/designmode/blob/master/image/abstractfactorypattern.png?raw=true)
+
