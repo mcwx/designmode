@@ -1,4 +1,4 @@
-package com.designmode.factorypattern;
+package com.designmode.factorypattern.demo0;
 
 /**
  * @Description:
