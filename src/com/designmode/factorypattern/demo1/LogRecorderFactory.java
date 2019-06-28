@@ -11,7 +11,7 @@ public class LogRecorderFactory {
         if (recorderType == null) {
             return null;
         }
-        if (recorderType.equalsIgnoreCase("LocalDisk")) {
+        if (recorderType.equalsIgnoreCase("LOCALDISK")) {
             return new LocalDiskLog();
         } else if (recorderType.equalsIgnoreCase("OSS")) {
             return new OssLog();
